@@ -1,0 +1,1 @@
+import{u as e,j as r}from"./index-CNJRM2VK.js";import{P as o}from"./PainelEsef-BMgVTyq3.js";import"./Controles-1gofUNWy.js";import"./useDash-C3mNXHVV.js";function p(){const{perfil:s}=e();return r.jsx(o,{empresa:s.empresa_id,titulo:"Dashboard ESEF"})}export{p as default};
