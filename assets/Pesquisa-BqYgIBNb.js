@@ -1,0 +1,1 @@
+import{u as r,j as s}from"./index-CwXozm2g.js";import{a}from"./PainelPesquisa-CWj-LOLs.js";import"./admin-CoCfl9k0.js";import"./useDash-zjAH7BBv.js";function p(){const e=r().perfil.empresa_id;return s.jsxs(s.Fragment,{children:[s.jsx("h1",{className:"hero",children:"Pesquisa"}),s.jsx(a,{empresa:e})]})}export{p as default};
